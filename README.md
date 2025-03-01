@@ -1,3 +1,6 @@
+[![PyPI version](https://badge.fury.io/py/acdh-django-widgets.svg)](https://badge.fury.io/py/acdh-django-widgets)
+[![pypi](https://github.com/acdh-oeaw/acdh-django-widgets/actions/workflows/pypi.yml/badge.svg)](https://github.com/acdh-oeaw/acdh-django-widgets/actions/workflows/pypi.yml)
+[![flake8 Lint](https://github.com/acdh-oeaw/acdh-django-widgets/actions/workflows/lint.yml/badge.svg)](https://github.com/acdh-oeaw/acdh-django-widgets/actions/workflows/lint.yml)
 # acdh-django-widgets
 acdh-django-widgets is a [Django](https://www.djangoproject.com/) app providing a collection of custom widgets for Django-Forms/Filter
 
